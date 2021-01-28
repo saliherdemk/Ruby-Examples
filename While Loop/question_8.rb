@@ -6,7 +6,7 @@ x = 1
 
 while i < 11 
 
-  puts "#{i}. term #{resault}:"
+  puts "#{i}. term : #{resault}"
 
   resault = (1 + 1 / x) 
 
